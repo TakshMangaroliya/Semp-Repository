@@ -1,2 +1,3 @@
 # Semp-Repository
-this is my first stape
+This is my first stape.
+Author-Taksh Mangaroliya
